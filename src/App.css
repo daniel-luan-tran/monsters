@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.boldred {
+  color: red;
+  font-weight: bold;
+}
+
+h1 {
+  /* font-family: 'BhuTuka Expanded One', cursive; */
+  font-family: 'Bigelow Rules', cursive;
+}
